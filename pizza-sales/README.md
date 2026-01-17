@@ -16,17 +16,10 @@ The analysis is based on a relational database containing the following tables:
 
 These tables capture order information, pricing details, pizza attributes, and category-level classification.
 
-## Repository Structure
-pizza-sales/
-│
-├── Pizza Sales - SQL Project Overview.pdf
-│   # Project overview with selected queries and results
-│
-├── sql/
-│   ├── schema.sql                # Table definitions
-│   ├── basic_queries.sql         # Basic SQL queries
-│   ├── intermediate_queries.sql  # Intermediate SQL queries
-│   └── advanced_queries.sql      # Advanced SQL queries
+## Project Files
+- **Pizza Sales - SQL Project Overview.pdf** – Project overview with selected queries and results
+- **sql/** – Complete SQL queries categorized as basic, intermediate, and advanced
+
 
 
 ## Scope
