@@ -19,12 +19,15 @@ These tables capture order information, pricing details, pizza attributes, and c
 ## Repository Structure
 pizza-sales/
 │
-├── Pizza Sales - SQL Project Overview.pdf # Project overview with selected queries and results
+├── Pizza Sales - SQL Project Overview.pdf
+│   # Project overview with selected queries and results
+│
 ├── sql/
-│ ├── schema.sql # Table definitions
-│ ├── basic_queries.sql # Basic SQL queries
-│ ├── intermediate_queries.sql # Intermediate SQL queries
-│ └── advanced_queries.sql # Advanced SQL queries
+│   ├── schema.sql                # Table definitions
+│   ├── basic_queries.sql         # Basic SQL queries
+│   ├── intermediate_queries.sql  # Intermediate SQL queries
+│   └── advanced_queries.sql      # Advanced SQL queries
+
 
 ## Scope
 The PDF included in this repository presents **selected SQL queries and their outputs** to provide a concise overview of the analysis.  
